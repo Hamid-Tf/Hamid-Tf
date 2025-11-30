@@ -1,52 +1,56 @@
 <div align="center">
 
   <!-- Logo -->
-  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png" 
-       alt="hamidtf logo" 
-       width="110" 
-       height="110" 
-       style="border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15); margin-bottom: 18px;" />
+  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
+       alt="hamidtf logo"
+       width="110"
+       height="110"
+       style="border-radius: 20px; margin-bottom: 18px;" />
 
   <!-- Name -->
   <h1><strong>Hamid Tafreshinia</strong></h1>
 
   <!-- Title -->
-  <h3>Developer · Web Enthusiast · UI/UX Oriented Learner</h3>
+  <h3>Web Developer · Backend Learner · UI/UX Focused</h3>
 
-  <br />
+  <br>
 
-  <!-- Social Minimal Badges -->
-  <div>
-    <a href="https://hamidtf.me">
-      <img src="https://img.shields.io/badge/Website-0066CC?style=flat&logo=google-chrome&logoColor=white" height="26" />
+  <!-- Custom Minimal Social Icons -->
+  <div style="display: flex; gap: 14px; justify-content: center;">
+
+    <!-- Website -->
+    <a href="https://hamidtf.me" title="Website">
+      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
     </a>
-    <a href="mailto:hamid.tf2004z@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" />
+
+    <!-- Email -->
+    <a href="mailto:hamid.tf2004z@gmail.com" title="Email">
+      <img height="28" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" />
     </a>
-    <a href="https://t.me/hmidtf">
-      <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" height="26" />
+
+    <!-- Telegram -->
+    <a href="https://t.me/hmidtf" title="Telegram">
+      <img height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" />
     </a>
+
   </div>
 
-  <br />
+  <br>
 
-  <sub>📍 Qom, Iran</sub>
+  <sub></sub>
 
   <hr style="border: none; height: 1px; background: #e5e5e5; margin: 24px 0;" />
 
 </div>
 
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a web developer and tech enthusiast from Qom, Iran.  
-I focus on creating clean, functional, and user-friendly websites while continuously improving my skills.
+I’m a web developer focused on writing clean code and building functional, user-friendly websites.  
+I’m currently improving my backend skills while strengthening my understanding of core web development.
 
-I'm not a full-stack developer yet, but I'm actively learning and gaining real-world experience. My goal is to write clean code, understand the fundamentals deeply, and grow step by step as a developer.
-
-I enjoy both the visual and technical sides of the web — from UI layout to backend logic — and I’m always exploring new tools and technologies.
+I enjoy both the technical and visual sides of the web — from UI structure to backend logic — and I’m always learning new tools and technologies to grow as a developer.
 
 ---
 
@@ -64,34 +68,34 @@ I enjoy both the visual and technical sides of the web — from UI layout to bac
 ## 🛠️ Skills
 
 ### **Languages & Frameworks**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ffffff?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-ffffff?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=flat&logo=laravel)
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat&logo=python)
+![WordPress](https://img.shields.io/badge/WordPress-ffffff?style=flat&logo=wordpress)
 
 ### **Design & Tools**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=flat&logo=adobephotoshop)
+![Git](https://img.shields.io/badge/Git-ffffff?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-ffffff?style=flat&logo=visualstudiocode)
 
 ---
 
 ## 📫 Get in Touch
 
-If you'd like to connect or collaborate, feel free to reach out anytime.
+If you'd like to connect or collaborate, feel free to reach out.
 
 <div align="center">
 
-**Let’s connect and build something meaningful.**
+**Let’s build something meaningful.**
 
 [Website](https://hamidtf.me) · [Email](mailto:hamid.tf2004z@gmail.com) · [Telegram](https://t.me/hmidtf)
 
 ---
 
-<sub>Designed and maintained by **hamidtf** • Based in Qom, Iran</sub>
+<sub>Designed & maintained by **hamidtf** • Qom, Iran</sub>
 
 </div>
