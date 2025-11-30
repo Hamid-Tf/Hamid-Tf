@@ -1,27 +1,47 @@
 <div align="center">
-  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png" alt="hamidtf" width="140" height="140" style="border-radius: 24px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12); margin-bottom: 24px;">
 
-  # **hamidtf**
-  ### Developer • Web Enthusiast • Learner
+  <!-- Logo -->
+  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png" 
+       alt="hamidtf logo" 
+       width="110" 
+       height="110" 
+       style="border-radius: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15); margin-bottom: 18px;" />
 
-  <!-- 🔗 Professional Link Badges -->
-  <div style="margin-top: 18px; margin-bottom: 10px;">
+  <!-- Name -->
+  <h1><strong>Hamid Tafreshinia</strong></h1>
+
+  <!-- Title -->
+  <h3>Developer · Web Enthusiast · UI/UX Oriented Learner</h3>
+
+  <br />
+
+  <!-- Social Minimal Badges -->
+  <div>
     <a href="https://hamidtf.me">
-      <img src="https://img.shields.io/badge/Website-hamidtf.me-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/Website-0066CC?style=flat&logo=google-chrome&logoColor=white" height="26" />
     </a>
+    &nbsp;
     <a href="mailto:hamid.tf2004z@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" />
     </a>
+    &nbsp;
     <a href="https://t.me/hmidtf">
-      <img src="https://img.shields.io/badge/Telegram-@hmidtf-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" height="26" />
     </a>
+    &nbsp;
     <a href="https://hmid.tf">
-      <img src="https://img.shields.io/badge/Portfolio-hmid.tf-111111?style=for-the-badge&logo=safari&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=safari&logoColor=white" height="26" />
     </a>
   </div>
 
+  <br />
+
   <sub>📍 Qom, Iran</sub>
+
+  <hr style="border: none; height: 1px; background: #e5e5e5; margin: 24px 0;" />
+
 </div>
+
 
 ---
 
@@ -62,7 +82,6 @@ I enjoy both the visual and technical sides of the web — from UI layout to bac
 
 ### **Design & Tools**
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
