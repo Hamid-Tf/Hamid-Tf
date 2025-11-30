@@ -3,7 +3,7 @@
   
   # hamidtf
   
-  ### Crafting Digital Experiences with Precision & Creativity
+  ### Developer • Web Enthusiast • Learner
   
   <p>
     <a href="https://hamidtf.me" style="margin: 0 8px;">
@@ -17,16 +17,19 @@
     </a>
   </p>
   
-  **Location:** Qom, Iran | **Also on:** [hmid.tf](https://hmid.tf)
+  **Location:** Qom, Iran · **Also on:** [hmid.tf](https://hmid.tf)
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer and designer with a commitment to creating elegant, functional, and user-centric digital solutions. Based in Qom, Iran, I blend technical expertise with creative thinking to transform ideas into impactful products.
+I'm a web developer and tech enthusiast from Qom, Iran.  
+I focus on building clean, functional, and user-friendly websites while constantly improving my technical skills.
 
-My approach focuses on clean code, thoughtful design, and delivering exceptional user experiences. Whether it's building full-stack applications, designing intuitive interfaces, or solving complex problems, I bring precision and creativity to every project.
+I’m not a full-stack developer yet, but I’m actively learning, practicing, and expanding my knowledge. My goal is to write clean code, understand the “why” behind what I build, and keep growing as a developer step by step.
+
+I enjoy working on both the visual and technical sides of the web, learning modern tools, and turning ideas into practical, simple, and usable solutions.
 
 ---
 
@@ -42,54 +45,33 @@ My approach focuses on clean code, thoughtful design, and delivering exceptional
 
 ---
 
-## 🎯 Portfolio & Projects
+## 🛠️ Skills
 
-Explore my work and detailed case studies on my **[portfolio](https://hmid.tf)** and **[website](https://hamidtf.me)**.
-
-### Featured Projects
-
-- **Project 1** — [Description](#) — [Live](#) | [Repository](#)
-- **Project 2** — [Description](#) — [Live](#) | [Repository](#)
-- **Project 3** — [Description](#) — [Live](#) | [Repository](#)
-
-> Visit [hamidtf.me](https://hamidtf.me) to see more work and detailed case studies.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Programming & Web
+- **HTML / CSS** — 90%  
+- **Bootstrap** — 80%  
+- **PHP** — 65%  
+- **Laravel** — 70%  
+- **JavaScript** — 40%  
+- **Python** — 40%  
+- **WordPress** — 35%
 
 ### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Core Competencies
-
-- **Web Development** — Full-stack applications, responsive design, modern architectures
-- **UI/UX Design** — User-centered design, wireframing, prototyping, design systems
-- **Frontend** — React, TypeScript, Tailwind CSS, component-based architecture
-- **Backend** — Node.js, REST APIs, database design, cloud integration
-- **Tools & Workflow** — Git, Figma, CI/CD, agile methodologies
+- **Photoshop** — 60%  
+- **Figma / UI Basics**  
+- **Git & Workflow**
 
 ---
 
 ## 📫 Get in Touch
 
-I'm always interested in discussing new projects, creative collaborations, or opportunities to work together.
+If you'd like to connect, discuss web development, or collaborate on a project, feel free to reach out.
 
 <div align="center">
-  
-**Let's build something amazing together!**
 
-[Visit Website](https://hamidtf.me) · [Send Email](mailto:hamid.tf2004z@gmail.com) · [Message on Telegram](https://t.me/hmidtf)
+**Let’s connect and build something meaningful.**
+
+[Visit Website](https://hamidtf.me) · [Email](mailto:hamid.tf2004z@gmail.com) · [Telegram](https://t.me/hmidtf)
 
 ---
 
