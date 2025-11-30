@@ -20,17 +20,11 @@
     <a href="https://hamidtf.me">
       <img src="https://img.shields.io/badge/Website-0066CC?style=flat&logo=google-chrome&logoColor=white" height="26" />
     </a>
-    &nbsp;
     <a href="mailto:hamid.tf2004z@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" />
     </a>
-    &nbsp;
     <a href="https://t.me/hmidtf">
       <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" height="26" />
-    </a>
-    &nbsp;
-    <a href="https://hmid.tf">
-      <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=safari&logoColor=white" height="26" />
     </a>
   </div>
 
