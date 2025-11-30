@@ -55,7 +55,6 @@ I enjoy both the visual and technical sides of the web — from UI layout to bac
 | | |
 |---|---|
 | **🌍 Website** | [hamidtf.me](https://hamidtf.me) |
-| **💼 Portfolio** | [hmid.tf](https://hmid.tf) |
 | **✉️ Email** | [hamid.tf2004z@gmail.com](mailto:hamid.tf2004z@gmail.com) |
 | **💬 Telegram** | [@hmidtf](https://t.me/hmidtf) |
 | **📍 Location** | Qom, Iran |
