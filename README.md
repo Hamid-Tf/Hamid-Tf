@@ -95,17 +95,10 @@ If you'd like to connect or collaborate, feel free to reach out anytime.
 
 <sub>Designed and maintained by **hamidtf** • Qom, Iran</sub>
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Building%20the%20future%2C%20one%20line%20of%20code%20at%20a%20time&author=Hamid%20Tafreshinia" width="600" />
-</div>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,50:00d4ff,100:0066cc&height=120&section=footer&animation=tween"/>
 
-<!-- Animated Footer Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Crafted+with+passion+by+Hamid+Tafreshinia;Open+to+collaborations+and+opportunities;Let's+build+something+amazing+together!" alt="Footer" />
-</div>
 
 </div>
 
