@@ -1,62 +1,60 @@
 <div align="center">
 
-<!-- Animated Hero Section -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,50:00d4ff,100:7000ff&height=120&section=header&animation=tween&fontAlignY=40"/>
+  <!-- Hero Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,50:00d4ff,100:7000ff&height=120&section=header&animation=tween&fontAlignY=40"/>
 
-<!-- Floating Profile with Glow Effect -->
-<div style="position: relative; margin: -60px 0 40px 0;">
-  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
-       alt="Hamid Tafreshinia"
-       width="140"
-       height="140"
-       style="border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0, 102, 204, 0.6), 0 0 80px rgba(0, 212, 255, 0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" />
-</div>
+  <!-- Floating Profile with Glow -->
+  <div style="position: relative; margin: -60px 0 40px 0;">
+    <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
+         alt="Hamid Tafreshinia"
+         width="140"
+         height="140"
+         style="border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0,102,204,0.6), 0 0 80px rgba(0,212,255,0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" />
+  </div>
 
-  <!-- Name -->
+  <!-- Name & Title -->
   <h1><strong>Hamid Tafreshinia</strong></h1>
-
-  <!-- Title -->
-  <h3>Web Developer · Backend Learner</h3>
+  <h3>Web Developer · Backend Learner · UI/UX Focused</h3>
 
   <br />
 
-  <!-- Social Minimal Badges -->
-  <div>
-    <a href="https://hamidtf.me">
-      <img src="https://img.shields.io/badge/Website-0066CC?style=flat&logo=google-chrome&logoColor=white" height="26" />
+  <!-- Social Badges with SVG -->
+  <div style="display: flex; gap: 14px; justify-content: center;">
+    <a href="https://hamidtf.me" title="Website">
+      <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
     </a>
-    <a href="mailto:hamid.tf2004z@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" height="26" />
+    <a href="mailto:hamid.tf2004z@gmail.com" title="Email">
+      <img height="28" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" />
     </a>
-    <a href="https://t.me/hmidtf">
-      <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" height="26" />
+    <a href="https://t.me/hmidtf" title="Telegram">
+      <img height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" />
     </a>
   </div>
 
   <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <!-- Rainbow Separator -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
+---
 
 ## 👨‍💻 About Me
+I'm a web developer focused on writing clean, functional, and user-friendly websites.  
+Currently improving backend skills and strengthening my core web development knowledge.  
 
-I'm a web developer focused on creating clean, functional, and user-friendly websites.  
-I'm continuously improving my backend skills while strengthening my understanding of core web development.
-
-I enjoy both the technical and visual sides of the web — from UI structure to backend logic — and I'm always exploring new tools and technologies to grow as a developer.
+I enjoy both the technical and visual aspects — from UI structure to backend logic — and always explore new tools and technologies.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🌐 Web Presence & Contact
-
 | | |
 |---|---|
-| **🌍 Website** | [hamidtf.me](https://hamidtf.me) |
-| **✉️ Email** | [hamid.tf2004z@gmail.com](mailto:hamid.tf2004z@gmail.com) |
-| **💬 Telegram** | [@hmidtf](https://t.me/hmidtf) |
-| **📍 Location** | Qom, Iran |
+| **Website** | [hamidtf.me](https://hamidtf.me) |
+| **Email** | [hamid.tf2004z@gmail.com](mailto:hamid.tf2004z@gmail.com) |
+| **Telegram** | [@hmidtf](https://t.me/hmidtf) |
+| **Location** | Qom, Iran |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -80,7 +78,6 @@ I enjoy both the technical and visual sides of the web — from UI structure to 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 📫 Get in Touch
-
 If you'd like to connect or collaborate, feel free to reach out anytime.
 
 <div align="center">
@@ -97,4 +94,7 @@ If you'd like to connect or collaborate, feel free to reach out anytime.
 <sub>Designed and maintained by **hamidtf** • Qom, Iran</sub>
 </div>
 
-</div>
+<style>
+@keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-12px); } }
+@keyframes glow { 0% { box-shadow: 0 0 20px rgba(0,102,204,0.4); } 100% { box-shadow: 0 0 50px rgba(0,212,255,0.6); } }
+</style>
