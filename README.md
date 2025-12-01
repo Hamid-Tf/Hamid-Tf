@@ -5,7 +5,40 @@
 
 <!-- Floating Profile with Glow Effect -->
 <div style="position: relative; margin: -60px 0 40px 0;">
-  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
+  <img src="<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="364" height="306" viewBox="0 0 364 306">
+
+    <!-- رنگ سفید، بدون بک‌گراند -->
+    <g fill="#FFFFFF">
+
+        <!-- شکل T -->
+        <path d="
+            M139 1
+            L138 61
+            L219 63
+            L218 305
+            L277 305
+            L276 62
+            L363 61
+            L363 1
+            Z" />
+
+        <!-- شکل H -->
+        <path d="
+            M0 0
+            L0 305
+            L59 305
+            L59 176
+            L183 175
+            L182 114
+            L60 113
+            L59 0
+            Z"/>
+    </g>
+
+</svg>
+"
        alt="Hamid Tafreshinia"
        width="140"
        height="140"
