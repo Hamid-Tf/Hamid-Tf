@@ -5,12 +5,21 @@
 
 <!-- Floating Profile with Glow Effect -->
 <div style="position: relative; margin: -60px 0 40px 0;">
-  <img 
-       src="data:image/svg+xml;base64,PHhtbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzY0IiBoZWlnaHQ9IjMwNiIgdmlld0JveD0iMCAwIDM2NCAzMDYiPjxnIGZpbGw9IiNGRkZGRkYiPjxwYXRoIGQ9Ik0xMzkgMUwxMzggNjFMMjE5IDYzTDIxOCAzMDVMMjc3IDMwNUwyNzYgNjJMMzYzIDYxTDM2MyAxWk0wIDBMMC... (Base64 shortened for readability)
-       alt="HT Logo"
-       width="140"
-       height="140"
-       style="border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0, 102, 204, 0.6), 0 0 80px rgba(0, 212, 255, 0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" />
+  
+  <!-- INLINE SVG LOGO -->
+  <svg width="140" height="140" viewBox="0 0 364 306"
+       style="background: transparent; border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0, 102, 204, 0.6), 0 0 80px rgba(0, 212, 255, 0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;">
+    <g fill="#FFFFFF">
+
+      <!-- T -->
+      <path d="M139 1 L138 61 L219 63 L218 305 L277 305 L276 62 L363 61 L363 1 Z"/>
+
+      <!-- H -->
+      <path d="M0 0 L0 305 L59 305 L59 176 L183 175 L182 114 L60 113 L59 0 Z"/>
+
+    </g>
+  </svg>
+
 </div>
 
   <!-- Name -->
