@@ -5,22 +5,13 @@
 
 <!-- Floating Profile with Glow Effect -->
 <div style="position: relative; margin: -60px 0 40px 0;">
-  
-  <!-- INLINE SVG LOGO -->
-  <svg width="140" height="140" viewBox="0 0 364 306"
-       style="background: transparent; border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0, 102, 204, 0.6), 0 0 80px rgba(0, 212, 255, 0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;">
-    <g fill="#FFFFFF">
-
-      <!-- T -->
-      <path d="M139 1 L138 61 L219 63 L218 305 L277 305 L276 62 L363 61 L363 1 Z"/>
-
-      <!-- H -->
-      <path d="M0 0 L0 305 L59 305 L59 176 L183 175 L182 114 L60 113 L59 0 Z"/>
-
-    </g>
-  </svg>
-
+  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
+       alt="Hamid Tafreshinia"
+       width="140"
+       height="140"
+       style="border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0, 102, 204, 0.6), 0 0 80px rgba(0, 212, 255, 0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" />
 </div>
+
 
   <!-- Name -->
   <h1><strong>Hamid Tafreshinia</strong></h1>
