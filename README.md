@@ -94,7 +94,7 @@ If you'd like to connect or collaborate, feel free to reach out anytime.
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,50:00d4ff,100:0066cc&height=120&section=footer&animation=tween"/>
 
-<sub>Designed and maintained by **hamidtf** • Qom, Iran</sub>
+<sub>Designed and maintained by **Hamid Tafreshinia** • Qom, Iran</sub>
 </div>
 
 </div>
