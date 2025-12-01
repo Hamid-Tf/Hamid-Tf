@@ -5,8 +5,9 @@
 
 <!-- Floating Profile with Glow Effect -->
 <div style="position: relative; margin: -60px 0 40px 0;">
-  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
-       alt="Hamid Tafreshinia"
+  <img 
+       src="data:image/svg+xml;base64,PHhtbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzY0IiBoZWlnaHQ9IjMwNiIgdmlld0JveD0iMCAwIDM2NCAzMDYiPjxnIGZpbGw9IiNGRkZGRkYiPjxwYXRoIGQ9Ik0xMzkgMUwxMzggNjFMMjE5IDYzTDIxOCAzMDVMMjc3IDMwNUwyNzYgNjJMMzYzIDYxTDM2MyAxWk0wIDBMMC... (Base64 shortened for readability)
+       alt="HT Logo"
        width="140"
        height="140"
        style="border-radius: 50%; border: 4px solid #0066cc; box-shadow: 0 0 40px rgba(0, 102, 204, 0.6), 0 0 80px rgba(0, 212, 255, 0.3); animation: float 3s ease-in-out infinite, glow 2s ease-in-out infinite alternate;" />
