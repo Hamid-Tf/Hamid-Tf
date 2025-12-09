@@ -17,7 +17,7 @@
   <h1><strong>Hamid Tafreshinia</strong></h1>
 
   <!-- Title -->
-  <h3>Web Developer · Backend Learner</h3>
+  <h3>Backend Developer</h3>
 
   <br />
 
