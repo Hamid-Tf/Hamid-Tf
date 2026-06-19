@@ -5,7 +5,7 @@
 
 <!-- Floating Profile with Glow Effect -->
 <div style="position: relative; margin: -60px 0 40px 0;">
-  <img src="https://hamidtf.me/images/settings/1758620651_favicon_apple-touch-icon.png"
+  <img src="https://hamidtf.ir/images/settings/1758620651_favicon_apple-touch-icon.png"
        alt="Hamid Tafreshinia"
        width="140"
        height="140"
@@ -23,7 +23,7 @@
 
   <!-- Social Minimal Badges -->
   <div>
-    <a href="https://hamidtf.me">
+    <a href="https://hamidtf.ir">
       <img src="https://img.shields.io/badge/Website-0066CC?style=flat&logo=google-chrome&logoColor=white" height="26" />
     </a>
     <a href="mailto:hamid.tf2004z@gmail.com">
@@ -54,7 +54,7 @@ I enjoy both the technical and visual sides of the web — from UI structure to 
 
 | | |
 |---|---|
-| **🌍 Website** | [hamidtf.me](https://hamidtf.me) |
+| **🌍 Website** | [hamidtf.ir](https://hamidtf.ir) |
 | **✉️ Email** | [hamid.tf2004z@gmail.com](mailto:hamid.tf2004z@gmail.com) |
 | **💬 Telegram** | [@hmidtf](https://t.me/hmidtf) |
 | **📍 Location** | Qom, Iran |
@@ -88,7 +88,7 @@ If you'd like to connect or collaborate, feel free to reach out anytime.
 
 **Let’s connect and build something meaningful.**
 
-[Website](https://hamidtf.me) · [Email](mailto:hamid.tf2004z@gmail.com) · [Telegram](https://t.me/hmidtf)
+[Website](https://hamidtf.ir) · [Email](mailto:hamid.tf2004z@gmail.com) · [Telegram](https://t.me/hmidtf)
 
 <br>
 
